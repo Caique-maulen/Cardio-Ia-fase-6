@@ -5,11 +5,9 @@ Projeto educacional FIAP: classificação supervisionada de `pico_risco` a parti
 > **Não é um dispositivo médico.** A variável-alvo é artificial e mistura sinais fisiológicos e variáveis operacionais. Resultados não devem orientar decisões clínicas reais.
 
 ## Integrantes
-- **Integrante 1:** [NOME COMPLETO] — RM: [RM]
-- **Integrante 2:** [NOME COMPLETO] — RM: [RM]
-- **Integrante 3:** [NOME COMPLETO] — RM: [RM]
-- **Integrante 4:** [NOME COMPLETO] — RM: [RM]
-- **Integrante 5 (se houver):** [NOME COMPLETO] — RM: [RM]
+- **Integrante 1:** Caique de Souza Maulen — RM: 560700
+- **Integrante 2:** Arthur de Carvalho — RM: 558646
+
 
 ## Arquitetura
 Orquestrador → **handoff** → Analista de Risco (`consultar_modelo`) → **handoff** → Especialista em Protocolos (`consultar_protocolos`) → **handoff** → Planejador de Resposta (`consultar_resultados`) → `RespostaFinal` validada.
