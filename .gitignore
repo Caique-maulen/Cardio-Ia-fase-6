@@ -1,0 +1,13 @@
+.env
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+artefatos/historico_execucao.json
+
+.env*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
