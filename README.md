@@ -58,7 +58,7 @@ Base sintética com alvo criado por limiares, possível superestimação de dese
 **Atenção:** o histórico demonstra um caso bem-sucedido, não garante comportamento em todas as entradas. O arquivo `.joblib` e `colunas_modelo.json` precisam ser gerados no notebook e colocados em `artefatos/` antes de rodar `main.py`.
 
 ## Vídeo demonstrativo (até 4 min)
-**Link:** PREENCHER_APOS_PUBLICAR_NO_YOUTUBE_NAO_LISTADO
+**Link:** https://youtu.be/Den25-V3FFg
 
 ## Entrega
 Repositório GitHub **privado** e compartilhado com `fiap-tutoria`; enviar no portal somente `.txt` com URL do repositório e URL do vídeo não listado. Adequar a estrutura ao template oficial da coordenação.
